@@ -1,4 +1,4 @@
-# ielts-vocab-trainning
+# ielts-vocab-training
 Program for training word spelling
 
 wordlist used from
